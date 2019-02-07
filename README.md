@@ -1,4 +1,4 @@
-# CMSC 142 Unscramble Project
+# Unscrambler
 A program that can generate all the k-letter words from an English dictionary by unscrambling a given set of letters
 
 ## Authors:
